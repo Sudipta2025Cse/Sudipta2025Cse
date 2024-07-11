@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sudipta Mondal 
-- 👀 I’m interested in Machine Learning, Deep Learning Algorithms,NLP and Computer Vision
+- 👀 I’m interested in Machine Learning, Deep Learning Algorithms, NLP and Computer Vision.
 - 🌱 I’m currently learning .. Computer Vision.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
