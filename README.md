@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sudipta Mondal from Heritage Institute Of Technology Kolkata CSE(AIML) Department Studying in 4th Year.
-- 👀 I’m interested in Artificial Intelligence, Data Mining,Machine Learning, Deep Learning Algorithms, NLP and Computer Vision.
-- 🌱 I’m currently learning .. Computer Vision.
+- 👋 Hi, I’m @Sudipta Mondal from Heritage Institute Of Technology Kolkata Studying in CSE(AIML) Department in 4th Year.
+- 👀 I’m interested in Artificial Intelligence, Data Mining, Machine Learning, Deep Learning Algorithms, NLP and Computer Vision.
+- 🌱 I’m currently learning .. Computer Vision, Computer Graphics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- sudipta7065@gmail.com
 - 😄 Pronouns: ...
